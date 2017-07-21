@@ -2,8 +2,6 @@
 
 var request = require('request');
 
-//var apiKey = "AIzaSyADstGOfW-261LSjhpAW8I30j3HpaXTOjo" //require('./key.js');
-//var apiID  = "003357973645139622470"//require('./id.js');
 
 var keys = require('./env.js');
 
